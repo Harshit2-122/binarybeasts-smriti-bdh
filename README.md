@@ -1,4 +1,3 @@
-# binarybeasts-smriti-bdh
 # 🧠 Smriti — स्मृति
 ### *The AI that never forgets your patient*
 
