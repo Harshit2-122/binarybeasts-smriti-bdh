@@ -273,37 +273,36 @@ smriti-bdh/
 ## 🎬 3-Minute Demo Flow
 
 ```
-0:00 — The Problem
-       "Yeh patient January mein aayi thi. Aaj February hai.
-        GPT-2 ko kuch yaad nahi. Dekhte hain BDH ko."
+0:00 — Browser mein kholo:
+       huggingface.co/spaces/Harshit2202/Smriti
 
-0:30 — Visit 1 (Live)
-       Patient types January symptoms.
-       BDH responds. σ matrix saved. File size shown on screen.
+0:15 — Patient ID daalo: ram_village_01
+       Load Patient click karo
 
-1:00 — Visit 2 (The Proof)
-       New session. No context window. Only σ matrix loaded.
-       BDH connects January + February symptoms.
-       GPT-2 shown side-by-side — no memory. No connection.
+0:30 — Patient Visit tab
+       Type karo: "Mujhe thakaan hai aur pair mein sujan hai"
+       Analyze with BDH Memory → result dikhao
 
-1:30 — Live Learning (The Wow Moment)
-       WHO guideline pasted.
-       BDH asked same question — before and after.
-       Before: doesn't know. After: answers correctly.
-       GPT-2: still doesn't know.
+0:50 — Clear karo
+       Same patient reload karo
+       Type karo: "Ab sans lene mein bhi takleef ho rahi hai"
+       Analyze → CROSS SESSION CONNECTION dikhao
+       Yeh hai WOW moment — highlight karo
 
-2:00 — Synapse Audit
-       "Kyun HIGH risk bola?" clicked.
-       Dashboard shows exact synapses, exact tokens.
-       Transformer: "probability 0.73 — no explanation."
+1:10 — Synapse Audit tab
+       Type: "thakaan sujan sans chest"
+       Run Audit → graph dikhao
+       "Yeh hai BDH ki interpretability"
 
-2:30 — Memory Scaling Graph
-       Graph shown: BDH flat line to 50k tokens.
-       GPT-2 red X at ~12k — crashed.
+1:30 — Memory Scaling tab
+       Graph dikhao
+       "BDH flat, GPT-2 crash"
 
-2:50 — Impact
-       "10 lakh ASHA workers. 1 billion patients.
-        This is what post-transformer AI looks like."
+1:50 — GitHub repo dikhao
+       github.com/Harshit2-122/binarybeasts-smriti-bdh
+       Folder structure dikhao
+
+2:00 — END
 ```
 
 ---
@@ -420,7 +419,7 @@ datasets
 
 ## 🌐 Live Demo
 
-HuggingFace Space: *[Coming soon — will be live at judging time]*
+HuggingFace Space: https://huggingface.co/spaces/Harshit2202/Smriti
 
 ---
 
